@@ -1,5 +1,8 @@
 # YOLO-LSN
 An efficient and lightweight object detection algorithm for UAV aerial imagery, designed to accurately detect mining-induced surface cracks using an improved YOLOv10 framework with LDADH, SOFEP, and NWD modules.
+## 🔒 Note
+Due to the double-blind review and ongoing submission process, the complete training code and dataset annotations are **not released at this stage**. We will make the full codebase and pretrained weights publicly available **after the paper is accepted**.
+
 # YOLO-LSN: Lightweight Small Object Detection Network for UAV Imagery
 
 This repository contains the official implementation of **YOLO-LSN**, a lightweight and efficient object detection model tailored for detecting mining-induced surface cracks in UAV aerial imagery. The model is based on the YOLOv10 architecture and enhanced with three novel modules:
